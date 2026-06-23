@@ -6,7 +6,7 @@ server.port=8086
 # =========================
 # SPRING APP NAME (VERY IMPORTANT FOR EUREKA + GATEWAY)
 # =========================
-spring.application.name=AjioProductService
+spring.application.name=AuthService
 
 # =========================
 # DATABASE CONFIG
